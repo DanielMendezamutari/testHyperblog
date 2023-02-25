@@ -1,0 +1,14 @@
+exposicion al 100
+balance de luz 65
+brillo -14
+contraste 18
+destacados 72
+sombras 18
+saturacion 56
+matiz -2
+temperatura -13
+por ultimo pongo exposicion a 23
+
+este es mi tokens por 7 dias
+
+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
